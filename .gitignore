@@ -1,2 +1,9 @@
 # ide
 .idea
+
+# backend
+backend/static
+
+# frontend
+frontend/node_modules
+frontend/dist
